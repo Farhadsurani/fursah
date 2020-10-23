@@ -1,0 +1,6 @@
+framework module Pods_Fursahh {
+  umbrella header "Pods-Fursahh-umbrella.h"
+
+  export *
+  module * { export * }
+}

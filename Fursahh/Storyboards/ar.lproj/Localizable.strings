@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  Fursahh
+
+  Created by Akber Sayni on 20/08/2019.
+  Copyright © 2019 Akber Sayani. All rights reserved.
+*/
+
+"Error" = "خطأ";
+"Message" = "رسالة";
+"Cancel" = "الغاء";
+"Next" = "التالي";
+"Finish" = "انهاء";
+"Confirmation" = "تاكيد";
+
+"merchant_removed_success" = "تم ازالة العلامة التجارية من قائمة المفضلين";
+"required_information_not_provided" = "المعلومات المطلوبة غير مزودة";
+"email_not_valid" = "عنوان البريد الالكتروني غير صالح";
+"password_not_valid" = "يُسمح باستخدام كلمة المرور الأبجدية الرقمية فقط ، بحد أدنى 6 أحرف.";
+"phone_not_valid" = "رقم الهاتف غير صالح";
+"password_not_match" = "الرمز السري غير مطابق";
+"password_created_success" = "تم انشاء الرمز السري الجديد الخاص بك";
+"no_video_available" = "لا يتوفر مقطع فيديو";
+"merchant_added_success" = "تم اضافة العلامة التجارية الى قائمة المفضلين";
+"pin_code_not_valid" = "الرقم السري غير صالح";
+"update_user_profile_failed" = "فشل في تحديث ملف تعريف المستخدم";
+"update_user_profile_success" = "تم تحديث الملف الشخصي بنجاح";
+"logout_confirmation_message" = "هل انت متاكد انك تريد تسجيل الخروج؟";
+"password_changed_success" = "تم تغيير الرمز السري";
+"tutorial_first_message" = "ابحث عن العروض  واحصل على تخفيضات كبيرة";
+"tutorial_second_message" = "تصفح من خلال فرصة و استفد من التخفيضات على العروض";
+"phone_not_provided" = "رقم الهاتف غير متوفر";
+"instagram_not_available" = "حساب الانستاجرام غير متوفر";
+"pdf_not_provided" = "القائمة غير متوفرة";
+"call_option_not_available" = "خيار الاتصال غير متوفر";
+"failed_load_pdf" = "فشل في تحميل البيانات";
+"user_location_denied_message" = "لن تتمكن من العثور على أقرب منفذ";
+"google_maps_not_available" = "خرائط جوجل غير متوفرة";
+"location_not_found" = "الموقع غير موجود";
+"confirm_outlet_message" = "هل انت متاكد انك في هذا المحل؟اذا لم تكن كذلك, اخترالموقع المناسب";
+"invalid_outlet_message" = "القسيمة غير صالحة للمنفذ المحدد";
+
+"Buy 1 Get 1 Free" = "اشتر 1 و احصل على 1 مجاناً";
+"Combo Offer" = "كومبو مجاني";
+"Discount Offer" = "عرض تخفيض";
+"You are offline, connect to the internet" = "أنت غير متصل ، اتصل بالإنترنت";
+"Voucher is not valid for selected outlet" = "القسيمة غير صالحة للمنفذ المحدد";
+"Failed to generate transaction number" = "فشل في تكوين رقم المعاملة";
+"Offer not available" = "العرض غير متوفر";
+"Change Outlet" = "تغيير المحل";
+"Continue" = "تابع";
+
+"View redemptions history" = "تاريخ الاسترداد";
+"Rules of Use" = "قواعد الاستخدام";
+"Amenities" = "وسائل الراحة";
+"Filters" = "مرشحات";
+"Popular Cuisines" = "المطبخ الشعبي";
+"Merchants" = "العلامات التجارية";
+"Discount Offers" = "عروض التخفيض";
+"Valid Until" = "ساري لغاية";
+"Valid Until %@" = "ساري لغاية %@";
+"Estimated Savings OMR %@" = "التوفير المقدر لك OMR %@";
+"%@ KM away" = "على بعد %@ كم";
+"%@ (%@ KM away)" = "%@ (على بعد %@ كم)";
+
+"Notifications" = "الاشعارات";
+"Change Password" = "تغيير الرمز السري";
+"Redemption History" = "تاريخ استخدام القسائم السابقة";
+"Terms & Conditions" = "الشروط والاحكام";
+"Logout" = "تسجيل الخروج";
+"Signup" = "سجل";
+"Signin" = "تسجيل الدخول";
+"Resend Code" = "اعادة ارسال الرمز";
+"Transaction Ref." = "رقم التحويلة";
+"Contact Us" = "اتصل بنا";
+"Skip" = "تخطى";
+"Share the App" = "مشاركة التطبيق";

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Locations</key>
+	<array>
+		<string>ADAM</string>
+		<string>AL AWABI</string>
+		<string>AL ANSAB</string>
+		<string>AL HAMRA</string>
+		<string>AL KAMIL WAL WAFI</string>
+		<string>AL KHODH</string>
+		<string>SINAW</string>
+		<string>AMERAT</string>
+		<string>BAHLA</string>
+		<string>BARKA</string>
+		<string>BIDBID</string>
+		<string>BIDEYAH</string>
+		<string>BIDIYA</string>
+		<string>BOWSHER</string>
+		<string>DIMA WATTAYEEN</string>
+		<string>FALAJ AL QABAIL</string>
+		<string>GHALA</string>
+		<string>GHUBRA</string>
+		<string>IBRA</string>
+		<string>IBRI</string>
+		<string>IZKI</string>
+		<string>JAALAN BANI BU ALI</string>
+		<string>JAALAN BANI BU HASSAN</string>
+		<string>MABELLA</string>
+		<string>KHABOURAH</string>
+		<string>KHASAB</string>
+		<string>MADHA</string>
+		<string>MADINAT SULTAN QABOOS</string>
+		<string>MANAH</string>
+		<string>MASIRAH</string>
+		<string>MAWALEH</string>
+		<string>MUSANNAH</string>
+		<string>NAKHL</string>
+		<string>NIZWA</string>
+		<string>QURAYAT</string>
+		<string>RUSAYL</string>
+		<string>RUSTAQ</string>
+		<string>SAHAM</string>
+		<string>SAMAYIL</string>
+		<string>AL KHUWAIR</string>
+		<string>AZAIBA</string>
+		<string>BURAIMI</string>
+		<string>DARSAIT</string>
+		<string>GHUBRAH</string>
+		<string>HAMRIYA</string>
+		<string>JIBROO</string>
+		<string>QURUM</string>
+		<string>MINA AL FAHAL</string>
+		<string>MUSCAT</string>
+		<string>MUTTRAH</string>
+		<string>QURUM</string>
+		<string>RAYSUT</string>
+		<string>RUSAIL</string>
+		<string>RUWI</string>
+		<string>SALALAH</string>
+		<string>SEEB</string>
+		<string>SOHAR</string>
+		<string>SUR</string>
+		<string>WADI ADAI</string>
+		<string>WADI KEBIR</string>
+		<string>WATTAYAH</string>
+		<string>SHINAS</string>
+		<string>SIDAB</string>
+		<string>SUWAIQ</string>
+		<string>WADI AL MAAWIL</string>
+		<string>HAIL</string>
+	</array>
+</dict>
+</plist>

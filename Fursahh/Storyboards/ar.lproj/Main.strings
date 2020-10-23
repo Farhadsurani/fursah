@@ -1,0 +1,399 @@
+
+/* Class = "UILabel"; text = "Instagram"; ObjectID = "07u-zq-wzn"; */
+"07u-zq-wzn.text" = "انستاجرام";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "0ye-A9-Bhi"; */
+"0ye-A9-Bhi.title" = "Item";
+
+/* Class = "UILabel"; text = "24-08-2019"; ObjectID = "0zU-zh-Dqs"; */
+"0zU-zh-Dqs.text" = "-";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "17s-ce-0q1"; */
+"17s-ce-0q1.title" = "الملف الشخصي";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "19V-nl-qd6"; */
+"19V-nl-qd6.normalTitle" = "تاكيد";
+
+/* Class = "UILabel"; text = "Valid Until"; ObjectID = "1AK-uZ-oqi"; */
+"1AK-uZ-oqi.text" = "ساري لغاية";
+
+/* Class = "UISearchBar"; placeholder = "Search Merchants"; ObjectID = "1GE-2S-oSK"; */
+"1GE-2S-oSK.placeholder" = "ابحث عن العلامة التجارية";
+
+/* Class = "UILabel"; text = "offername"; ObjectID = "1Rc-88-2eL"; */
+"1Rc-88-2eL.text" = "-";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "27q-lK-vTz"; */
+"27q-lK-vTz.text" = "-";
+
+/* Class = "UILabel"; text = "Your Estimated Savings"; ObjectID = "29z-sM-Cvc"; */
+"29z-sM-Cvc.text" = "المدخرات المقدرة";
+
+/* Class = "UILabel"; text = "Saved OMR"; ObjectID = "2Jl-PH-mkK"; */
+"2Jl-PH-mkK.text" = "Saved OMR";
+
+/* Class = "UILabel"; text = "SUCCESS"; ObjectID = "2b2-u8-bxZ"; */
+"2b2-u8-bxZ.text" = "نجاح";
+
+/* Class = "UITextField"; placeholder = "Age Range"; ObjectID = "2f7-sO-wiY"; */
+"2f7-sO-wiY.placeholder" = "العمر";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "40r-SC-VWp"; */
+"40r-SC-VWp.text" = "-";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "4Fu-FN-Wuj"; */
+"4Fu-FN-Wuj.normalTitle" = "تاكيد";
+
+/* Class = "UILabel"; text = "More"; ObjectID = "4jb-GF-KTB"; */
+"4jb-GF-KTB.text" = "أكثر من";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "5ba-Fe-23J"; */
+"5ba-Fe-23J.normalTitle" = "الاستمرار";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "5we-Q6-dDA"; */
+"5we-Q6-dDA.placeholder" = "اسم المستخدم";
+
+/* Class = "UILabel"; text = "Already Redeemed"; ObjectID = "6cG-Se-QEh"; */
+"6cG-Se-QEh.text" = "مستخدمة بالفعل";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "8I6-kU-0u1"; */
+"8I6-kU-0u1.title" = "الاعدادات";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "8Yz-hM-fZo"; */
+"8Yz-hM-fZo.normalTitle" = "مشاهدة الكل";
+
+/* Class = "UILabel"; text = "OMR"; ObjectID = "8xt-sh-GiK"; */
+"8xt-sh-GiK.text" = "OMR";
+
+/* Class = "UINavigationItem"; title = "Favourites"; ObjectID = "997-qj-BHQ"; */
+"997-qj-BHQ.title" = "المفضلة";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "ADg-qc-NRp"; */
+"ADg-qc-NRp.placeholder" = "ابحث عن العلامة التجارية";
+
+/* Class = "UILabel"; text = "KM Away"; ObjectID = "Azi-BE-Ug7"; */
+"Azi-BE-Ug7.text" = "على بعد كم";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "BF8-tg-RsS"; */
+"BF8-tg-RsS.text" = "-";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "By8-yu-oBo"; */
+"By8-yu-oBo.placeholder" = "الرمز السري";
+
+/* Class = "UILabel"; text = "Timming"; ObjectID = "DcU-kD-ISc"; */
+"DcU-kD-ISc.text" = "-";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "EDF-Qw-rQS"; */
+"EDF-Qw-rQS.title" = "الملف الشخصي";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "EKL-ir-b7P"; */
+"EKL-ir-b7P.text" = "لديك حساب ؟";
+
+/* Class = "UIButton"; text = "Signin"; ObjectID = "vwC-1z-qZa"; */
+"vwC-1z-qZa.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "EOm-2S-pGQ"; */
+"EOm-2S-pGQ.title" = "الاعدادات";
+
+/* Class = "UILabel"; text = "NO DATA AVAILABLE"; ObjectID = "ETo-IA-5mS"; */
+"ETo-IA-5mS.text" = "لا تتوفر بيانات";
+
+/* Class = "UIButton"; normalTitle = "Instagram"; ObjectID = "Ec8-Fr-Mve"; */
+"Ec8-Fr-Mve.normalTitle" = "انستاجرام";
+
+/* Class = "UINavigationItem"; title = "Notifications"; ObjectID = "EfN-bd-Ffd"; */
+"EfN-bd-Ffd.title" = "الاشعارات";
+
+/* Class = "UILabel"; text = "No Merchant Available"; ObjectID = "EuZ-Rz-9VX"; */
+"EuZ-Rz-9VX.text" = "لا توجد علامة تجارية";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "FiX-mO-0oA"; */
+"FiX-mO-0oA.placeholder" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "GUO-VX-EBm"; */
+"GUO-VX-EBm.text" = "-";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "HeZ-L4-elX"; */
+"HeZ-L4-elX.text" = "-";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "Hmy-5O-bL8"; */
+"Hmy-5O-bL8.text" = "-";
+
+/* Class = "UILabel"; text = "Redeemed on:"; ObjectID = "IOI-vz-pu6"; */
+"IOI-vz-pu6.text" = "تم الاستخدام في:";
+
+/* Class = "UILabel"; text = "OMR 0"; ObjectID = "KNx-nt-NEz"; */
+"KNx-nt-NEz.text" = "OMR 0";
+
+/* Class = "UILabel"; text = "NO RECORD FOUND"; ObjectID = "LQU-Nx-UyW"; */
+"LQU-Nx-UyW.text" = "لا تتوفر بيانات";
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "MDc-QZ-XEj"; */
+"MDc-QZ-XEj.title" = "ابحث عن العلامة التجارية";
+
+/* Class = "UIButton"; normalTitle = "Signup"; ObjectID = "Mz2-2S-ow2"; */
+"Mz2-2S-ow2.normalTitle" = "سجل";
+
+/* Class = "UILabel"; text = "Search merchant offering and get great discounts"; ObjectID = "N9O-sw-GUq"; */
+"N9O-sw-GUq.text" = "ابحث عن العروض  واحصل على تخفيضات كبيرة";
+
+/* Class = "UITextField"; placeholder = "Old Password"; ObjectID = "NO1-8e-rdU"; */
+"NO1-8e-rdU.placeholder" = "الرمز السري القديم";
+
+/* Class = "UITextField"; placeholder = "Confirm New Password"; ObjectID = "NZ5-dD-CTj"; */
+"NZ5-dD-CTj.placeholder" = "تاكيد الرمز السري الجديد";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "O2p-Na-10s"; */
+"O2p-Na-10s.text" = "ليس لدي حساب";
+
+/* Class = "UIButton"; text = "Signup"; ObjectID = "782-ca-jRL"; */
+"782-ca-jRL.normalTitle" = "سجل";
+
+/* Class = "UITextField"; placeholder = "Nationality"; ObjectID = "P0d-ce-4dC"; */
+"P0d-ce-4dC.placeholder" = "الجنسية";
+
+/* Class = "UILabel"; text = "Offers are subject to"; ObjectID = "PZN-81-3Df"; */
+"PZN-81-3Df.text" = "العروض تخضع ل";
+
+/* Class = "UIButton"; normalTitle = "Faceboook"; ObjectID = "PoN-bO-Zhi"; */
+"PoN-bO-Zhi.normalTitle" = "فيس بوك";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "Q9r-KC-NXB"; */
+"Q9r-KC-NXB.text" = "تسجيل الخروج";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "QIO-fh-DcY"; */
+"QIO-fh-DcY.normalTitle" = "تابع";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "QvY-Xh-tGE"; */
+"QvY-Xh-tGE.text" = "رقم الهاتف";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "Rqd-1K-Qju"; */
+"Rqd-1K-Qju.placeholder" = "اسم المستخدم";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "SC4-fN-7DM"; */
+"SC4-fN-7DM.normalTitle" = "مشاهدة الكل";
+
+/* Class = "UILabel"; text = "Select Outlet"; ObjectID = "TIo-22-GfX"; */
+"TIo-22-GfX.text" = "حدد الفرع";
+
+/* Class = "UILabel"; text = "No merchant in your favorite list"; ObjectID = "V6w-vK-Ir7"; */
+"V6w-vK-Ir7.text" = "لا توجد علامة تجارية في القائمة المفضلة";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "VFx-43-8UY"; */
+"VFx-43-8UY.placeholder" = "العنوان";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password"; ObjectID = "Vag-Dg-sqz"; */
+"Vag-Dg-sqz.normalTitle" = "نسيت الرمز السري";
+
+/* Class = "UINavigationItem"; title = "Edit Profile"; ObjectID = "W7F-uf-tcq"; */
+"W7F-uf-tcq.title" = "تعديل";
+
+/* Class = "UITextField"; placeholder = "Nationality"; ObjectID = "Wgh-yp-NS3"; */
+"Wgh-yp-NS3.placeholder" = "الجنسية";
+
+/* Class = "UILabel"; text = "Akber Sayani"; ObjectID = "WnA-2d-3cR"; */
+"WnA-2d-3cR.text" = "-";
+
+/* Class = "UIButton"; normalTitle = "Change Outlet"; ObjectID = "Y7q-1B-66Q"; */
+"Y7q-1B-66Q.normalTitle" = "تغيير المحل";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "YAu-qy-V3D"; */
+"YAu-qy-V3D.text" = "-";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "YBK-QT-rZf"; */
+"YBK-QT-rZf.text" = "الاشعارات";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "ZEf-Ai-etM"; */
+"ZEf-Ai-etM.title" = "-";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "ZfA-Ht-H3w"; */
+"ZfA-Ht-H3w.placeholder" = "الرمز السري";
+
+/* Class = "UIButton"; normalTitle = "Resend Code"; ObjectID = "b0x-Fk-Ptd"; */
+"b0x-Fk-Ptd.normalTitle" = "اعادة ارسال الرمز";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "Zhf-Cb-Azk"; */
+"Zhf-Cb-Azk.normalTitle" = "تابع";
+
+/* Class = "UITextView"; text = "What is Lorem Ipsum?\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhy do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."; ObjectID = "Zu4-YE-2el"; */
+"Zu4-YE-2el.text" = "What is Lorem Ipsum?\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhy do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "Zy9-uG-nwo"; */
+"Zy9-uG-nwo.normalTitle" = "اغلاق";
+
+/* Class = "UILabel"; text = "You have redeemed your discount successfully"; ObjectID = "a1J-tB-75H"; */
+"a1J-tB-75H.text" = "لقد قمت بإستخدام  التخفيض الخاص بك بنجاح";
+
+/* Class = "UILabel"; text = "A verification code has been sent to your email address"; ObjectID = "aHX-ew-IYZ"; */
+"aHX-ew-IYZ.text" = "تم إرسال رمز التحقق إلى عنوان بريدك الإلكتروني";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "biM-p0-UV8"; */
+"biM-p0-UV8.placeholder" = "الرمز السري الجديد";
+
+/* Class = "UILabel"; text = "Feature Merchants"; ObjectID = "ci8-HD-Wf1"; */
+"ci8-HD-Wf1.text" = "التجّار المميّزون";
+
+/* Class = "UILabel"; text = "Buy 1 Get 1 Free"; ObjectID = "dNf-F9-Vmf"; */
+"dNf-F9-Vmf.text" = "-";
+
+/* Class = "UILabel"; text = "NO OFFER NAME"; ObjectID = "dz9-QK-Z4g"; */
+"dz9-QK-Z4g.text" = "-";
+
+/* Class = "UILabel"; text = "Please ask merchant to enter thier PIN"; ObjectID = "eOF-3s-95e"; */
+"eOF-3s-95e.text" = "الرجاء اطلب من المحل إدخال الرقم الخاص";
+
+/* Class = "UIButton"; normalTitle = "Instagram"; ObjectID = "ebD-di-Z8v"; */
+"ebD-di-Z8v.normalTitle" = "انستقرام";
+
+/* Class = "UILabel"; text = "merchantname"; ObjectID = "esJ-FD-rBF"; */
+"esJ-FD-rBF.text" = "-";
+
+/* Class = "UILabel"; text = "Are you sure you're at this outlet? if not, choose the correct one from the locations screen."; ObjectID = "frd-qf-KKH"; */
+"frd-qf-KKH.text" = "هل انت متاكد انك في هذا المحل؟اذا لم تكن كذلك, اخترالموقع المناسب";
+
+/* Class = "UILabel"; text = "Muscat Grand Mall"; ObjectID = "g14-1s-LeE"; */
+"g14-1s-LeE.text" = "-";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "g7p-aS-IOL"; */
+"g7p-aS-IOL.text" = "-";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "gk4-HV-pQx"; */
+"gk4-HV-pQx.normalTitle" = "التالي";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "hNN-2Y-Hvh"; */
+"hNN-2Y-Hvh.title" = "الصفحة الرئيسية";
+
+/* Class = "UINavigationItem"; title = "Voucher Redeem"; ObjectID = "hiY-4t-9Fz"; */
+"hiY-4t-9Fz.title" = "استخدم القسيمة";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "hja-XH-OkU"; */
+"hja-XH-OkU.normalTitle" = "تاكيد";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "hzI-Q2-Ol8"; */
+"hzI-Q2-Ol8.placeholder" = "تاكيد الرمز السري";
+
+/* Class = "UITextField"; placeholder = "Age Range"; ObjectID = "iPJ-TU-2xL"; */
+"iPJ-TU-2xL.placeholder" = "العمر";
+
+/* Class = "UILabel"; text = "Amazing Offers Huge Savings"; ObjectID = "ihY-Os-pZj"; */
+"ihY-Os-pZj.text" = "-";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "iyZ-gL-zHh"; */
+"iyZ-gL-zHh.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "jHF-D9-FtQ"; */
+"jHF-D9-FtQ.placeholder" = "عنوان البريد الالكتروني";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "joQ-4l-S6P"; */
+"joQ-4l-S6P.placeholder" = "الرمز السري الجديد";
+
+/* Class = "UITabBarItem"; title = "Notifications"; ObjectID = "kJz-K4-VL9"; */
+"kJz-K4-VL9.title" = "الاشعارات";
+
+/* Class = "UIButton"; normalTitle = "Faceboook"; ObjectID = "ksH-5R-5Pe"; */
+"ksH-5R-5Pe.normalTitle" = "فيس بوك";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "lHk-fM-Qh2"; */
+"lHk-fM-Qh2.placeholder" = "عنوان البريد الالكتروني";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "ltf-dg-Mje"; */
+"ltf-dg-Mje.normalTitle" = "تاكيد";
+
+/* Class = "UILabel"; text = "To reset your password, please enter your email address"; ObjectID = "m2s-se-A0W"; */
+"m2s-se-A0W.text" = "لإعادة تعيين كلمة المرور الخاصة بك ، يرجى إدخال عنوان بريدك الإلكتروني";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "mRr-Fp-qBx"; */
+"mRr-Fp-qBx.placeholder" = "العنوان";
+
+/* Class = "UILabel"; text = "Buy 1 Get 1 Free"; ObjectID = "mXO-uI-a60"; */
+"mXO-uI-a60.text" = "-";
+
+/* Class = "UILabel"; text = "New in Town"; ObjectID = "mab-Bb-agL"; */
+"mab-Bb-agL.text" = "الأعضاء الجدد";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "oL0-uy-Seg"; */
+"oL0-uy-Seg.placeholder" = "عنوان البريد الالكتروني";
+
+/* Class = "UILabel"; text = "Remaining Vouchers:"; ObjectID = "odf-Pg-Pvo"; */
+"odf-Pg-Pvo.text" = "القسائم المتبقية";
+
+/* Class = "UITextField"; placeholder = "Confirm New Password"; ObjectID = "oyo-EB-Ks1"; */
+"oyo-EB-Ks1.placeholder" = "تاكيد الرمز السري الجديد";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "pMK-ya-Fjj"; */
+"pMK-ya-Fjj.placeholder" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "KM Away"; ObjectID = "pYy-40-aZd"; */
+"pYy-40-aZd.text" = "على بعد كم";
+
+/* Class = "UILabel"; text = "sayani.developer@gmail.com"; ObjectID = "pZ8-UU-6G7"; */
+"pZ8-UU-6G7.text" = "-";
+
+/* Class = "UILabel"; text = "Outlet"; ObjectID = "q1n-dr-diA"; */
+"q1n-dr-diA.text" = "محل";
+
+/* Class = "UILabel"; text = "02 Mar 2019"; ObjectID = "rcP-8E-VZZ"; */
+"rcP-8E-VZZ.text" = "-";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "rla-v5-jrY"; */
+"rla-v5-jrY.text" = "-";
+
+/* Class = "UILabel"; text = "Valid Until:"; ObjectID = "rxJ-sB-bAy"; */
+"rxJ-sB-bAy.text" = "ساري لغاية";
+
+/* Class = "UILabel"; text = "Amazing Offers Huge Savings"; ObjectID = "sHJ-6L-lvU"; */
+"sHJ-6L-lvU.text" = "-";
+
+/* Class = "UINavigationItem"; title = "Filters"; ObjectID = "sTJ-4d-En4"; */
+"sTJ-4d-En4.title" = "مرشحات";
+
+/* Class = "UITabBarItem"; title = "Favourites"; ObjectID = "stA-yH-T9h"; */
+"stA-yH-T9h.title" = "المفضلة";
+
+/* Class = "UILabel"; text = "TOTAL SAVINGS"; ObjectID = "tQK-Bj-u00"; */
+"tQK-Bj-u00.text" = "مجموع التوفير";
+
+/* Class = "UILabel"; text = "Categories"; ObjectID = "teq-Mw-U57"; */
+"teq-Mw-U57.text" = "الاقسام";
+
+/* Class = "UILabel"; text = "Enter your new password"; ObjectID = "uxu-Cq-LTB"; */
+"uxu-Cq-LTB.text" = "ادخل الرمز السري الجديد الخاص بك";
+
+/* Class = "UINavigationItem"; title = "Redemption History"; ObjectID = "uz4-NK-xRa"; */
+"uz4-NK-xRa.title" = "تاريخ استخدام القسائم السابقة";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "vmK-vx-OSa"; */
+"vmK-vx-OSa.text" = "-";
+
+/* Class = "UINavigationItem"; title = "Change Password"; ObjectID = "vqO-rL-Zlq"; */
+"vqO-rL-Zlq.title" = "تغيير الرمز السري";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"; ObjectID = "x7Z-AS-D8L"; */
+"x7Z-AS-D8L.text" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xgh-zx-sOH"; */
+"xgh-zx-sOH.text" = "-";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "xnh-Kb-5lN"; */
+"xnh-Kb-5lN.placeholder" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "yK2-yp-X6r"; */
+"yK2-yp-X6r.text" = "-";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "ywY-Bb-NQc"; */
+"ywY-Bb-NQc.placeholder" = "بحث";
+
+/* Class = "UISearchBar"; ywY-Bb-NQc.scopeButtonTitles[0] = "Title"; ObjectID = "ywY-Bb-NQc"; */
+"ywY-Bb-NQc.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; ywY-Bb-NQc.scopeButtonTitles[1] = "Title"; ObjectID = "ywY-Bb-NQc"; */
+"ywY-Bb-NQc.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UILabel"; text = "Outlet 1"; ObjectID = "zPG-CM-nLV"; */
+"zPG-CM-nLV.text" = "-";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "zPT-sa-dtQ"; */
+"zPT-sa-dtQ.title" = "تفاصيل";
+
+/* Class = "UINavigationItem"; title = "Terms and Conditions"; ObjectID = "ze6-E3-9Cr"; */
+"ze6-E3-9Cr.title" = "الشروط والاحكام";

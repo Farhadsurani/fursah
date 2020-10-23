@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="Erlang SDK">
+      <CLASSES>
+        <root url="file://C:/Program Files/erl8.3" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</project>

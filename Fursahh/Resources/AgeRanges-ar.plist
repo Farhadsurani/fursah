@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ranges</key>
+	<array>
+		<string>18 أو أقل</string>
+		<string>18 - 21</string>
+		<string>22 - 24</string>
+		<string>25 - 28</string>
+		<string>29 - 32</string>
+		<string>33 - 35</string>
+		<string>36 - 39</string>
+		<string>40 - 45</string>
+		<string>45 أو أعلى</string>
+	</array>
+</dict>
+</plist>

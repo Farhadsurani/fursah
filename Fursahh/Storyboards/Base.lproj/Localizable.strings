@@ -1,0 +1,77 @@
+/*
+  Localizable.strings
+  Fursahh
+ 
+  Created by Akber Sayni on 20/08/2019.
+  Copyright © 2019 Akber Sayani. All rights reserved.
+*/
+
+"Error" = "Error";
+"Message" = "Message";
+"Cancel" = "Cancel";
+"Next" = "Next";
+"Finish" = "Finish";
+"Confirmation" = "Confirmation";
+
+"merchant_removed_success" = "Merchant removed from favorite list";
+"required_information_not_provided" = "Required information not provided";
+"email_not_valid" = "Email address not valid";
+"password_not_valid" = "Only alphanumeric password is allowed, minimum 6 characters.";
+"phone_not_valid" = "Phone number not valid";
+"password_not_match" = "Passwords do not match";
+"password_created_success" = "New password has been created";
+"no_video_available" = "No video available";
+"merchant_added_success" = "Merchant added to the favorite list";
+"pin_code_not_valid" = "Pin code not valid";
+"update_user_profile_failed" = "Failed to update user profile";
+"update_user_profile_success" = "Profile updated successfully";
+"logout_confirmation_message" = "Are you sure you want to logout?";
+"password_changed_success" = "Password has been changed";
+"tutorial_first_message" = "Search merchant offering and get great discounts";
+"tutorial_second_message" = "Browse through Fursahh and avail discounts on deals";
+"phone_not_provided" = "Phone number not provided";
+"instagram_not_available" = "Instagram account not available";
+"pdf_not_provided" = "PDF menu not provided";
+"call_option_not_available" = "Call option not available";
+"failed_load_pdf" = "Failed to load pdf file";
+"user_location_denied_message" = "You won't be able to find nearest outlet";
+"google_maps_not_available" = "Google maps not available";
+"location_not_found" = "Location not found";
+"confirm_outlet_message" = "Are you sure you're at this outlet? if not, choose the correct one from the locations screen";
+"invalid_outlet_message" = "Voucher is not valid for selected Outlet";
+
+"Buy 1 Get 1 Free" = "Buy 1 Get 1 Free";
+"Combo Offer" = "Combo Offer";
+"Discount Offer" = "Discount Offer";
+"You are offline, connect to the internet" = "You are offline, connect to the internet";
+"Voucher is not valid for selected outlet" = "Voucher is not valid for selected Outlet";
+"Failed to generate transaction number" = "Failed to generate transaction number";
+"Offer not available" = "Offer not available";
+"Change Outlet" = "Change Outlet";
+"Continue" = "Continue";
+"Cancel" = "Cancel";
+
+"View redemptions history" = "View redemptions history";
+"Rules of Use" = "Rules of Use";
+"Filters" = "Filters";
+"Amenities" = "Amenities";
+"Popular Cuisines" = "Popular Cuisines";
+"Merchants" = "Merchants";
+"Discount Offers" = "Discount Offers";
+"Valid Until %@" = "Valid Until %@";
+"Estimated Savings OMR %@" = "Estimated Savings OMR %@";
+"%@ KM away" = "%@ KM away";
+"%@ (%@ KM away)" = "%@ (%@ KM away)";
+
+"Notifications" = "Notifications";
+"Change Password" = "Change Password";
+"Redemption History" = "Redemption History";
+"Terms & Conditions" = "Terms & Conditions";
+"Logout" = "Logout";
+"Signup" = "Signup";
+"Signin" = "Signin";
+"Resend Code" = "Resend Code";
+"Transaction Ref." = "Transaction Ref.";
+"Contact Us" = "Contact Us";
+"Skip" = "Skip";
+"Share the App" = "Share the App";
